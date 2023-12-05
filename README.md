@@ -4,10 +4,10 @@ This is a simple To-Do app built using HTML, CSS, and JavaScript. The app allows
 
 # Features
 
-    - **Add tasks to the to-do list.**
-    - **Mark tasks as completed.**
-    - **Delete tasks from the list.**
-    - **Tasks are stored in the browser's local storage for data persistence.**
+- **Add tasks to the to-do list.**
+- **Mark tasks as completed.**
+- **Delete tasks from the list.**
+- **Tasks are stored in the browser's local storage for data persistence.**
 
 # Local Storage
 
