@@ -16,4 +16,5 @@ The app uses local storage to persist tasks, allowing you to access your to-do l
 # Demo
 
 Video Demonstration:
-https://github.com/GAUTHAMI-S/TO-DO-LIST/assets/67738017/7a5185c5-672a-485e-a736-d66842912c7c
+
+https://github.com/GAUTHAMI-S/TO-DO-LIST/assets/67738017/8920e30b-c387-4019-be05-369705ce93a0
